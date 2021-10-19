@@ -15,10 +15,21 @@ Here are some ideas to get you started:
 -->
 # Hi! I'm Liliana!
 
-![img](./assets/CTD.png)
-
 
 I’m currently learning about programming on [Certified Tech Developer](https://www.certifiedtechdeveloper.com/)
+
+✅ Front End: `HTML`, `CSS`, `Javascript`
+
+✅ Databases: `MySQL`
+
+✅ Back End I: `Java`
+
+✅ Infrastructure: `Git Bash`, `PowerShell`, `Vagrant`, `Ansible`, `Docker`
+
+
+![img](./assets/CTD.png)
+
+***
 
 - 👯 I’m looking to collaborate on projects for beginners
 
