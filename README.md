@@ -30,4 +30,4 @@ I’m currently learning about programming on [Certified Tech Developer](https:/
 
 [💬 LinkedIn: LilianaOspina](https://www.linkedin.com/in/lilianaospinau/)
 
-[💬 Mail: liliana.ospina.u@gmail.com](liliana.ospina.u@gmail.com)
+[💬 Mail: liliana.ospina.u@gmail.com](mailto:liliana.ospina.u@gmail.com)
