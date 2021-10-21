@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 I’m currently learning about programming on [Certified Tech Developer](https://www.certifiedtechdeveloper.com/)
 
+✅ Back End I: `Java`, `MySQL`
+
 ✅ Front End: `HTML`, `CSS`, `Javascript`
 
-✅ Databases: `MySQL`
+✅ Infrastructure: `ORACLE VM`, `Git Bash`, `PowerShell`, `Vagrant`, `Ansible`, `Docker`
 
-✅ Back End I: `Java`
-
-✅ Infrastructure: `Git Bash`, `PowerShell`, `Vagrant`, `Ansible`, `Docker`
-
+✅ Testing: `jest`
 
 ![img](./assets/CTD.png)
 
