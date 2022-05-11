@@ -16,19 +16,25 @@ Here are some ideas to get you started:
 # Hi! I'm Liliana!
 
 
-I’m currently learning about programming on [Certified Tech Developer](https://www.certifiedtechdeveloper.com/)
+I’m currently learning about programming on [Certified Tech Developer](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer)
 
-✅ Back End I: `Java`, `MySQL`
+✅ Front End: `HTML`, `CSS`, `Javascript`, `React`, `Node.js`, `npm`
 
-✅ Front End: `HTML`, `CSS`, `Javascript`
+✅ Back End: `Java`, `MySQL`, `Maven`, `Spring`
 
-✅ Infrastructure: `ORACLE VM`, `Git Bash`, `PowerShell`, `Vagrant`, `Ansible`, `Docker`
+✅ Ux / Ui: `Figma`
+
+✅ Infrastructure: `ORACLE VM`, `Git`, `Git Bash`, `PowerShell`, `Vagrant`, `Ansible`, `Docker`, `AWS`, `CloudFormation`, `Terraform`
 
 ✅ Testing: `jest`
 
 ![img](./assets/CTD.png)
 
 ***
+
+- 🔭 I’m currently working on the frontEnd of `React` project [Clinica Dental](https://github.com/LilianaOspina/react_clinica_dental)
+
+- 🌱 I’m currently learning `Java Spring Boot` and `React`
 
 - 👯 I’m looking to collaborate on projects for beginners
 

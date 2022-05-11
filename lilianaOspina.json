@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Liliana",
+        "lastname": "Ospina",
+        "profession": "Full Stack Web Developer",
+        "technologies": {
+            "FrontEnd": [
+                "HTML","CSS","Javascript","React","Node.js","npm"
+            ],
+            "BackEnd": [
+                "Java", "Maven","Spring","MySQL"
+            ],
+            "Infrastructure": [
+                "ORACLE VM", "Git", "Git Bash", "PowerShell", "Vagrant", "Ansible", "Docker"
+            ],
+            "Testing": "jest"
+        }
+    }
+]
