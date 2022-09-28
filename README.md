@@ -18,34 +18,32 @@ Here are some ideas to get you started:
 
 I’m currently learning about programming on [Certified Tech Developer](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer)
 
-✅ Front End: `HTML`, `CSS`, `Javascript`, `React`, `Node.js`, `npm`
+✅ Front End: `HTML`, `CSS`, `Javascript`, `typeScript`, `React`, `Node.js`, `npm`
 
-✅ Back End: `Java`, `MySQL`, `Maven`, `Spring`
+✅ Back End: `Java`, `MySQL`, `Maven`, `SpringBoot`
 
 ✅ Ux / Ui: `Figma`
 
-✅ Infrastructure: `ORACLE VM`, `Git`, `Git Bash`, `PowerShell`, `Vagrant`, `Ansible`, `Docker`, `AWS`, `CloudFormation`, `Terraform`
+✅ Infrastructure: `ORACLE VM`, `Git`, `Git Bash`, `PowerShell`, `AWS`
 
 ✅ Testing: `jest`
 
-![img](./assets/CTD.png)
-
 ***
 
-- 🔭 I’m currently working on the frontEnd of `React` project [Clinica Dental](https://github.com/LilianaOspina/react_clinica_dental)
+- 🔭 I’m currently working with typeScript on a React project
 
-- 🌱 I’m currently learning `Java Spring Boot` and `React`
+- 🌱 I’m currently learning `TypeScript` and `SQL`
 
 - 👯 I’m looking to collaborate on projects for beginners
 
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with `TypeScript`
 
-- 🐳 I’m interested on Docker
-
-- 💬 Ask me about Markdown 💜
+- 🐍 I’m interested on Python
 
 ## Find me:
 
 [💬 LinkedIn: LilianaOspina](https://www.linkedin.com/in/lilianaospinau/)
 
 [💬 Mail: liliana.ospina.u@gmail.com](mailto:liliana.ospina.u@gmail.com)
+
+![img](./assets/firm.gif)
