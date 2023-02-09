@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Known technologies:
 
-✅ Front End: ``React`, `typeScript`
+✅ Front End: `React`, `typeScript`
 
 ✅ Back End: `Java`, `SpringBoot`
 
