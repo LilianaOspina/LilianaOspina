@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 -->
 # Hi! I'm Liliana!
 
+Known technologies:
 
-I’m currently learning about programming on [Certified Tech Developer](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer)
+✅ Front End: ``React`, `typeScript`
 
-✅ Front End: `HTML`, `CSS`, `Javascript`, `typeScript`, `React`, `Node.js`, `npm`
-
-✅ Back End: `Java`, `MySQL`, `Maven`, `SpringBoot`
+✅ Back End: `Java`, `SpringBoot`
 
 ✅ Ux / Ui: `Figma`
 
-✅ Infrastructure: `ORACLE VM`, `Git`, `Git Bash`, `PowerShell`, `AWS`
+✅ Infrastructure: `Git`, `AWS`
 
 ✅ Testing: `jest`
 
@@ -32,13 +31,13 @@ I’m currently learning about programming on [Certified Tech Developer](https:/
 
 - 🔭 I’m currently working with typeScript on a React project
 
-- 🌱 I’m currently learning `TypeScript` and `SQL`
+- 🌱 I’m currently learning `TypeScript`, `Next.js` and `React Native`
 
-- 👯 I’m looking to collaborate on projects for beginners
+- 🏭 I’m currently working at SliceToken platform.
 
 - 🤔 I’m looking for help with `TypeScript`
 
-- 🐍 I’m interested on Python
+- 🐍 I’m interested on `Python` and `Swift`
 
 ## Find me:
 
