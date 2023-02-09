@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Known technologies:
 
+✅ Agile: `JIRA`
+
 ✅ Front End: `React`, `typeScript`
 
 ✅ Back End: `Java`, `SpringBoot`
